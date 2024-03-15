@@ -1,2 +1,0 @@
-Welcome to my note!
-- Git is one of the most powerful tool for developer to work as collaboration.
