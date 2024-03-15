@@ -1,5 +1,6 @@
-HelloJava2{
-	public static void main (String [] args){
-	System.out.printt("Hello Java");
-}
+class HelloJava2 {
+
+  public static void main(String[] args) {
+    System.out.printf("Hello Java");
+  }
 }
